@@ -1,0 +1,14 @@
+{
+ "name": "desafio-oficina-reprograma",
+ "version": "1.0.0",
+ "scripts": {
+  "test": "jest"
+ },
+ "keywords": [
+  "css",
+  "javascript"
+ ],
+ "dependencies": {
+  "jest": "29.7.0"
+ }
+}
